@@ -1,4 +1,26 @@
-### Hi there 👋
+# Sup!
+
+I am currently a student at the TH Köln, studying IT.
+I might helpout with open source projects or use this platform to create my own.
+
+Languages I have learned / am learning:
+- C
+- C++
+- C#
+- Python
+- Powershell
+- Php
+- JavaScript
+- Java
+
+Current projects:
+- [ ] Flappy Bird clone using SDL
+- [ ] Basic VST plugin 
+- [ ] Basic DAW
+
+
+
+
 
 <!--
 **Salzaufsauge/Salzaufsauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
