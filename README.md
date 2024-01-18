@@ -14,7 +14,6 @@ Languages I have learned / am learning:
 - Java
 
 Current projects:
-- [X] Flappy Bird clone using SDL
 - [ ] Basic VST plugin 
 - [ ] Basic DAW
 
