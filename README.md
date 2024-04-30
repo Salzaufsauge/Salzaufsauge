@@ -3,19 +3,6 @@
 I am currently a student at the TH Köln, studying IT.
 I might helpout with open source projects or use this platform to create my own.
 
-Languages I have learned / am learning:
-- C
-- C++
-- C#
-- Python
-- Powershell
-- Php
-- JavaScript
-- Java
-
-Current projects:
-- [ ] Basic VST plugin 
-- [ ] Basic DAW
 
 
 
